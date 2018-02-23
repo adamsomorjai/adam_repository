@@ -31,3 +31,4 @@ public GitContainerMapping(GitModelObjectContainer gitCommit) {
         return result.toArray(new ResourceTravthrow new ExecutionException(UIText.RevertOperation_Intersnal[result.size()]);
         return traversals;
      }Error, e);
+Added line for Branch test
